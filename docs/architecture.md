@@ -12,5 +12,5 @@ root folder
 |--docs
 |--src
 |
-|
+|--
 ```
